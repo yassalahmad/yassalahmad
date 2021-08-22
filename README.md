@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yassalahmad
-- 👀 I’m interested in dart flutter python
-- 🌱 I’m currently learning python & MATLAB
-- 💞️ I’m looking to collaborate on AI,flutter
+- 👀 I’m interested in Dart & Flutter
+- 🌱 I’m currently learning to become Android Full Stack Developer
+- 💞️ I’m looking to collaborate on UI/UX & Android Applications
 - 📫 How to reach me yassal.qureshi@gmail.com
 
 <!---
