@@ -4,7 +4,9 @@ Hi 👋 My name is Yassal Ahmad
 Flutter Developer
 -----------------
 
-I am a Computer Science student and Flutter Developer. Some of my Previous projects are 1.Copy Text From Image: https://play.google.com/store/apps/details?id=com.devslope.imageToText 2.All Network Latest Packages 2022: https://play.google.com/store/apps/details?id=com.furqanshiekh786.allNetworkLatestPackages2022
+I am a Computer Science student and Flutter Developer. Some of my Previous projects are 
+1.Copy Text From Image: https://play.google.com/store/apps/details?id=com.devslope.imageToText
+2.All Network Latest Packages 2022: https://play.google.com/store/apps/details?id=com.furqanshiekh786.allNetworkLatestPackages2022
 
 * 🌍  I'm based in Multan, Punjab, Pakistan
 * ✉️  You can contact me at [yassal.qureshi@gmail.com](mailto:yassal.qureshi@gmail.com)
