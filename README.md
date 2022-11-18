@@ -20,7 +20,7 @@ Some of my applications are:
 
 
 
-* 🌍  I'm based in Multan, Punjab, Pakistan
+* 🌍  I'm based in Lahore, Punjab, Pakistan
 * ✉️  You can contact me at [yassal.qureshi@gmail.com](mailto:yassal.qureshi@gmail.com)
 * 🧠  I'm learning JavaScript & React Native
 * 🤝  I'm open to collaborating on Dart ,Flutter & Cross Platform Applications
