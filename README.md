@@ -22,12 +22,15 @@ Some of my applications are:
 
 * 🌍  I'm based in Lahore, Punjab, Pakistan
 * ✉️  You can contact me at [yassal.qureshi@gmail.com](mailto:yassal.qureshi@gmail.com)
-* 🧠  I'm learning JavaScript & React Native
-* 🤝  I'm open to collaborating on Dart ,Flutter & Cross Platform Applications
+* 🧠  I'm learning Android Native
+* 🤝  I'm open to collaborating on ANdroid Native & Cross Platform Applications
 
 <a href="https://www.twitter.com/yassal__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yassal__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=yassalahmad&theme=dark&border_radius=2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Skills
 
@@ -57,6 +60,7 @@ src="https://img.shields.io/twitter/follow/yassal__?logo=twitter&style=for-the-b
 <a href="http://www.github.com/yassalahmad"><img src="https://github-readme-stats.vercel.app/api?username=yassalahmad&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassalahmad's GitHub stats" /></a>
 
 <a href="https://github.com/yassalahmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassalahmad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 ### Support Me
 
