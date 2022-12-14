@@ -23,7 +23,7 @@ Some of my applications are:
 * 🌍  I'm based in Lahore, Punjab, Pakistan
 * ✉️  You can contact me at [yassal.qureshi@gmail.com](mailto:yassal.qureshi@gmail.com)
 * 🧠  I'm learning Android Native
-* 🤝  I'm open to collaborating on ANdroid Native & Cross Platform Applications
+* 🤝  I'm open to collaborating on Android Native & Cross Platform Applications
 
 <a href="https://www.twitter.com/yassal__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yassal__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
