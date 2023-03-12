@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EDSO APP<br><br>🌱 I’m currently learning React JS and Android Native<br><br>❓ Ask me about anything related to Flutter, Dart and related technologies.<br><br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on Packages App using URL Launcher<br><br>🌱 I’m currently learning React JS and Android Native<br><br>❓ Ask me about anything related to Flutter, Dart and related technologies.<br><br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
