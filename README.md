@@ -104,22 +104,6 @@ yassal.qureshi@gmail.com
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yassalahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yassalahmad&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassalahmad&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=yassalahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # ⚡ Fun Fact
 
 I started my career as a **mobile app developer**, which gives me strong technical fluency when leading engineering teams today.
