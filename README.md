@@ -1,66 +1,54 @@
 # Hi, I'm Yassal Ahmad 👋
 
-## Technical Project Manager | PMP® | Scrum Master | Ex-Mobile App Developer
+## Technical Project Manager | PMP® | Scrum Master | Delivery Leader
 
 Based in **Riyadh, Saudi Arabia**, I help companies deliver complex digital platforms across **HealthTech, FinTech, SaaS, AI, Blockchain, E-Commerce, and Mobile Applications**.
 
-I bridge the gap between **engineering execution** and **business goals** by leading cross-functional teams, improving Agile delivery processes, and aligning stakeholders around measurable outcomes.
+I bridge the gap between **engineering teams and business stakeholders** by leading cross-functional teams, improving Agile delivery workflows, and ensuring measurable product outcomes.
 
 ---
 
-# 📍 About Me
+# 🚀 What I Do
 
-- 📍 Based in **Riyadh, Saudi Arabia**
-- 🌍 Open to **GCC onsite / hybrid** and **remote global opportunities**
-- 💼 Roles I’m targeting:
-  - Technical Project Manager
-  - Project Manager
-  - Scrum Master
-  - Delivery Manager
-  - Product Manager
-  - Client Success / Account Delivery
-
-I focus on **structured product delivery, stakeholder alignment, and building scalable systems with distributed engineering teams.**
+• Lead cross-functional engineering teams  
+• Manage Agile / Scrum delivery processes  
+• Align stakeholders and product vision  
+• Deliver scalable web & mobile platforms  
+• Ensure compliance-aware product delivery
 
 ---
 
-# 🚀 What I Bring
+# 📊 Delivery Impact
 
-- **5+ years** of experience in product and software delivery  
-- **20+ technical projects** delivered across multiple industries  
-- Leadership of **15+ member cross-functional engineering teams**  
-- Managed project budgets up to **SAR 4M**  
-- Improved delivery speed by **25%** through Agile optimization  
-- Platforms delivered with **99.9% uptime**
+- **5+ Years** in software product delivery  
+- **20+ Technical Projects Delivered**  
+- **Teams of 15+ Engineers Managed**  
+- **Projects up to SAR 4M**  
+- **25% Faster Delivery Through Agile Optimization**  
+- **99.9% Platform Uptime**
 
-Experience working with compliance-sensitive industries:
+Industries delivered for:
 
-- HIPAA
-- PCI-DSS
-- KYC / AML
-- ISO 27001
-- GDPR
+HealthTech • FinTech • SaaS • AI • Blockchain • E-Commerce • Marketplaces
 
 ---
 
-# 🧠 Core Strengths
+# 🧠 Core Expertise
 
-- Technical Project Management
-- Agile / Scrum / Kanban
-- SDLC Management
-- Stakeholder Management
-- Risk & Change Management
-- Client Success & Delivery Leadership
-- Sprint Planning & Backlog Management
-- QA / UAT Coordination
-- Cross-Functional Team Leadership
-- Digital Transformation Delivery
+Technical Project Management  
+Agile / Scrum / Kanban  
+SDLC Management  
+Stakeholder Communication  
+Risk & Change Management  
+Sprint Planning & Backlog Management  
+Cross-Functional Team Leadership  
+Digital Transformation Delivery  
 
 ---
 
 # 🛠 Tools & Technologies
 
-### Project & Delivery Tools
+### Project & Delivery
 `Jira` `Asana` `Trello` `ClickUp` `Confluence` `Monday.com` `Notion`
 
 ### Technical Understanding
@@ -69,91 +57,69 @@ Experience working with compliance-sensitive industries:
 ### Cloud & Infrastructure
 `AWS` `Azure` `Docker` `CI/CD`
 
-### AI Platforms
+### AI & Modern Platforms
 `OpenAI API` `Prompt Engineering` `Machine Learning`
 
 ---
 
-# 🌟 Selected Projects
+# 🌟 Key Platforms Delivered
 
-### 🏥 Checkmate Health — Telemedicine Platform
-**Technical Project Manager**
+### 🏥 Checkmate Health
+HIPAA-compliant telemedicine platform serving **5000+ users**
 
-Led delivery of a **HIPAA-compliant telemedicine platform serving 5,000+ users**, coordinating cross-functional teams and ensuring secure, reliable healthcare infrastructure.
+### 🏨 BAZAR
+Premium hospitality booking platform with **GCC payment integrations**
 
----
+### 🔗 Liberty Swap
+Blockchain DeFi exchange integrating **Web3 infrastructure**
 
-### 🏨 BAZAR — Hospitality Booking Platform
-**Technical Project Manager**
-
-Managed delivery of a **premium booking platform with GCC payment integrations and PCI-DSS aligned infrastructure.**
-
----
-
-### 🔗 Liberty Swap — DeFi Exchange Platform
-**Technical Project Manager**
-
-Coordinated delivery of a **blockchain-enabled exchange integrating Web3 services and backend APIs.**
-
----
-
-### 🤖 Bizly — AI Networking Platform
-**Technical Project Manager / Scrum Master**
-
-Led Agile delivery of an **AI-powered networking platform with mobile-first architecture and ML-driven recommendations.**
+### 🤖 Bizly
+AI-powered networking platform with **ML recommendation systems**
 
 ---
 
 # 🧭 Career Journey
 
-**Technical Project Manager**  
-AvioZone Tech
+Technical Project Manager — AvioZone Tech  
+Technical Project Manager — MentorSol  
+Project Manager — MentorSol  
+Associate Project Manager — MentorSol  
+Junior Project Manager — Bulk Bytes  
+Flutter Developer — Bulk Bytes  
 
-**Technical Project Manager**  
-MentorSol
-
-**Project Manager**  
-MentorSol
-
-**Associate Project Manager**  
-MentorSol
-
-**Junior Project Manager**  
-Bulk Bytes
-
-**Flutter Developer**  
-Bulk Bytes
-
-My progression from **software developer → Technical Project Manager** helps me work effectively with both engineering teams and business stakeholders.
+My progression from **developer → Technical Project Manager** allows me to communicate effectively with both **engineering teams and business stakeholders.**
 
 ---
 
-# 🎓 Certifications
+# 🌐 Connect With Me
 
-- Project Management Professional **(PMP®)**
-- Scrum Master
-- Cognitive Project Management in AI **(CPMAI™)**
-- Talking to AI: Prompt Engineering for Project Managers
-- Practical Application of Gen AI for PMs
-- Atlassian Agile Project Management Professional Certificate
-- Microsoft Career Essentials in Project Management
-- Azure AI Essentials
-
----
-
-# 🌍 Let's Connect
-
-🌐 Portfolio  
-**https://yassalpm.lovable.app**
+🌍 Portfolio  
+https://yassalpm.lovable.app
 
 💼 LinkedIn  
-**https://linkedin.com/in/yassalahmad**
+https://linkedin.com/in/yassalahmad
 
 📧 Email  
-**yassal.qureshi@gmail.com**
+yassal.qureshi@gmail.com
 
 ---
 
-# 📌 Profile Summary
+# 📊 GitHub Stats
 
-Technical Project Manager with strong delivery leadership, stakeholder communication, and technical fluency — helping teams ship scalable digital products across **GCC and global remote environments.**
+![](https://github-readme-stats.vercel.app/api?username=yassalahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yassalahmad&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassalahmad&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=yassalahmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# ⚡ Fun Fact
+
+I started my career as a **mobile app developer**, which gives me strong technical fluency when leading engineering teams today.
